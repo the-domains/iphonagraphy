@@ -1,0 +1,14 @@
+layout_spectrum: 0.9820789
+typography_spectrum: 0.4032258
+color:
+  saturation: 0.7008437
+  lightness: 0.770927
+  brandStrength: 0.5985663
+  brandColors:
+    - '#4167AA'
+    - '#6699D7'
+    - '#1F263A'
+    - '#F3F3F3'
+    - '#A3A2A4'
+  rhythmicContrast: 0.4399936
+name: Iphonagraphy

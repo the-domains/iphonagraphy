@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:3abe7eab-5531-4a03-89c8-bb5b36a6da37'
 author: []
-datePublished: '2016-03-13T11:54:32.803Z'
+datePublished: '2016-03-13T11:54:58.362Z'
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 title: Retirement
-dateModified: '2016-03-13T11:52:29.303Z'
+dateModified: '2016-03-13T11:54:50.472Z'
 sourcePath: _posts/2016-03-13-retirement.md
 published: true
 starred: false

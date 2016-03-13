@@ -4,14 +4,21 @@
         <description><![CDATA[Moments of iPhonagraphy and other cameras ;-)]]></description>
         <link>https://thegrid.ai/iphonagraphy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 11:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 11:56:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iphonagraphy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a26253-3773-446c-b26b-971b43d4160c.png">]]></description>
             <link>https://thegrid.ai/iphonagraphy/bd164cfb-ca6f-4f65-9372-cf025c554f21/index.html</link>
             <guid isPermaLink="false">bd164cfb-ca6f-4f65-9372-cf025c554f21</guid>
-            <pubDate>Sun, 13 Mar 2016 11:54:33 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 11:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking out 'loud'.]]></title>
+            <description><![CDATA[<article><h1>Thinking out 'loud'.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/506eb52307c54aa8d4d08f14aaa581d1c936c0cc.png"></article>]]></description>
+            <link>urn:uuid:71106300-28f8-438b-9a31-c9738eebaff4</link>
+            <guid isPermaLink="false">26e6b870-1f5b-49f0-aebc-72b43122215a</guid>
+            <pubDate>Sun, 13 Mar 2016 11:54:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hot topic]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Seeing through glass ;-)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e556d7065898c3a62914deb82c4cb063e89695.png"></article>]]></description>
             <link>urn:uuid:ddc5a6fe-3018-450a-81b5-a9a57718d24b</link>
             <guid isPermaLink="false">4a09473b-7e08-4e45-af7a-c61495ba59c8</guid>
-            <pubDate>Sun, 13 Mar 2016 11:54:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take a break now and then.]]></title>
-            <description><![CDATA[<article><h1>Take a break now and then.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a12077e3321ec472248a3cab3c9dadaaf2d74b4.png"></article>]]></description>
-            <link>https://thegrid.ai/iphonagraphy/take-a-break-now-and-then/index.html</link>
-            <guid isPermaLink="false">4c27ce33-844e-4340-ad94-24e25e57ff4c</guid>
             <pubDate>Sun, 13 Mar 2016 11:54:58 GMT</pubDate>
         </item>
     </channel>

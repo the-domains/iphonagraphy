@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:851563e7-6692-4e1f-818e-3e497a4e3149'
 author: []
-datePublished: '2016-03-13T11:54:32.507Z'
+datePublished: '2016-03-13T11:54:58.182Z'
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 title: Throttle your course.
-dateModified: '2016-03-13T11:52:21.238Z'
+dateModified: '2016-03-13T11:54:50.245Z'
 sourcePath: _posts/2016-03-13-throttle-your-course.md
 published: true
 starred: false

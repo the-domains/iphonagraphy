@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-13T11:46:42.326Z'
+datePublished: '2016-03-13T11:54:58.042Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Take a break now and then.
-dateModified: '2016-03-13T11:04:50.177Z'
+dateModified: '2016-03-13T11:54:50.119Z'
 sourcePath: _posts/2016-03-13-take-a-break-now-and-then.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false

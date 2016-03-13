@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:f195bb25-ce32-43fd-9daa-e1b34e9a8b42'
 author: []
-datePublished: '2016-03-13T11:16:06.879Z'
+datePublished: '2016-03-13T11:54:32.616Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Right pathway in life.
-dateModified: '2016-03-13T11:03:25.771Z'
+dateModified: '2016-03-13T11:52:25.873Z'
 sourcePath: _posts/2016-03-13-right-pathway-in-life.md
 published: true
+starred: false
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: right-pathway-in-life/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 

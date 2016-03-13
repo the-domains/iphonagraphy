@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:3c507e63-e741-41b7-abbe-bef49790bbb2'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-13T11:56:57.523Z'
+dateModified: '2016-03-13T11:56:57.177Z'
 author: []
-datePublished: '2016-03-13T11:16:06.003Z'
-publisher:
-  domain: ''
-  name: ''
 title: Swedish lane
-dateModified: '2016-03-13T11:12:48.003Z'
 sourcePath: _posts/2016-03-13-swedish-lane.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: swedish-lane/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 

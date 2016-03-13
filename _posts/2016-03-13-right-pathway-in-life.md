@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:f195bb25-ce32-43fd-9daa-e1b34e9a8b42'
 author: []
-datePublished: '2016-03-13T11:54:32.616Z'
+datePublished: '2016-03-13T11:54:58.260Z'
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 title: Right pathway in life.
-dateModified: '2016-03-13T11:52:25.873Z'
+dateModified: '2016-03-13T11:54:50.345Z'
 sourcePath: _posts/2016-03-13-right-pathway-in-life.md
 published: true
 starred: false

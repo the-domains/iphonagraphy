@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:479c4cc7-afd5-4749-88ad-6e7ce8e07f16'
 author: []
-datePublished: '2016-03-13T11:53:29.845Z'
+datePublished: '2016-03-13T11:54:57.540Z'
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 title: Real estate agent.
-dateModified: '2016-03-13T11:52:52.340Z'
+dateModified: '2016-03-13T11:54:49.677Z'
 sourcePath: _posts/2016-03-13-real-estate-agent.md
 published: true
 starred: false

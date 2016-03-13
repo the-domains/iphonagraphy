@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T10:37:56.787Z'
-dateModified: '2016-03-13T10:37:49.796Z'
+datePublished: '2016-03-13T10:50:11.058Z'
+dateModified: '2016-03-13T10:50:10.535Z'
 author: []
 title: At the rivershore.
+sourcePath: _posts/2016-03-13-at-the-rivershore.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-at-the-rivershore.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 

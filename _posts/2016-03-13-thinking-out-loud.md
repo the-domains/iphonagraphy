@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:71106300-28f8-438b-9a31-c9738eebaff4'
 author: []
-datePublished: '2016-03-13T11:54:33.111Z'
+datePublished: '2016-03-13T11:54:58.656Z'
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 title: "Thinking out 'loud'."
-dateModified: '2016-03-13T11:52:35.152Z'
+dateModified: '2016-03-13T11:54:50.862Z'
 sourcePath: _posts/2016-03-13-thinking-out-loud.md
 published: true
 starred: false

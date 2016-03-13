@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-13T10:40:04.522Z'
-dateModified: '2016-03-13T10:39:48.023Z'
+datePublished: '2016-03-13T10:50:17.219Z'
+dateModified: '2016-03-13T10:40:13.744Z'
 author: []
 title: Longstanding realationship
+sourcePath: _posts/2016-03-13-longstanding-realationship.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-longstanding-realationship.md
-published: true
 url: longstanding-realationship/index.html
 _context: 'http://schema.org'
 _type: Article

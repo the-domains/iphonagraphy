@@ -2,14 +2,14 @@
 description: ''
 isBasedOnUrl: 'urn:uuid:125b22ec-e37b-4f6b-9afd-9ee0ead3a0cb'
 author: []
-datePublished: '2016-03-13T11:54:33.049Z'
+datePublished: '2016-03-13T11:54:58.533Z'
 publisher:
+  favicon: null
   name: ''
   domain: ''
   url: null
-  favicon: null
 title: Slippery tongue
-dateModified: '2016-03-13T11:52:31.846Z'
+dateModified: '2016-03-13T11:54:50.570Z'
 sourcePath: _posts/2016-03-13-slippery-tongue.md
 published: true
 starred: false

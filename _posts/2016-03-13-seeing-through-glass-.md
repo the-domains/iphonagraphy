@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:ddc5a6fe-3018-450a-81b5-a9a57718d24b'
 author: []
-datePublished: '2016-03-13T11:16:06.567Z'
+datePublished: '2016-03-13T11:54:32.287Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Seeing through glass ;-)
-dateModified: '2016-03-13T11:06:35.548Z'
+dateModified: '2016-03-13T11:52:16.176Z'
 sourcePath: _posts/2016-03-13-seeing-through-glass-.md
 published: true
+starred: false
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: seeing-through-glass-/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 

@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:c8632270-f53d-40a2-b61a-e62b9046ccac'
 author: []
-datePublished: '2016-03-13T11:16:06.386Z'
+datePublished: '2016-03-13T11:54:32.192Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Orbiter photos in MacMoon
-dateModified: '2016-03-13T11:09:05.584Z'
+dateModified: '2016-03-13T11:53:02.670Z'
 sourcePath: _posts/2016-03-13-orbiter-photos-in-macmoon.md
 published: true
+starred: false
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: orbiter-photos-in-macmoon/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 

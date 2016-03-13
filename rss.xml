@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Iphonagraphy]]></title>
         <description><![CDATA[Iphonagraphy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iphonagraphy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 09:17:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 09:18:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iphonagraphy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c1dec79-ccd8-44f2-82cf-94613c56630b.png">]]></description>
+            <link>https://thegrid.ai/iphonagraphy/97859966-ff34-4405-bd16-6e263c40452e/index.html</link>
+            <guid isPermaLink="false">97859966-ff34-4405-bd16-6e263c40452e</guid>
+            <pubDate>Sun, 13 Mar 2016 09:17:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Munsterplein Roermond]]></title>
             <description><![CDATA[<article><h1>Munsterplein Roermond</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d54ca9ef171222b0b91a65d0236369cfd29c03.png"></article>]]></description>
-            <link>undefinedmunsterplein-roermond/index.html</link>
+            <link>https://thegrid.ai/iphonagraphy/munsterplein-roermond/index.html</link>
             <guid isPermaLink="false">44850d79-6855-4321-ab43-ab0d1a552382</guid>
             <pubDate>Sun, 13 Mar 2016 09:17:46 GMT</pubDate>
         </item>

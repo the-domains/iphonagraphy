@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:125b22ec-e37b-4f6b-9afd-9ee0ead3a0cb'
 author: []
-datePublished: '2016-03-13T11:16:07.314Z'
+datePublished: '2016-03-13T11:54:33.049Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Slippery tongue
-dateModified: '2016-03-13T11:01:02.177Z'
+dateModified: '2016-03-13T11:52:31.846Z'
 sourcePath: _posts/2016-03-13-slippery-tongue.md
 published: true
+starred: false
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: slippery-tongue/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
